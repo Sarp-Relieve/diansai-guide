@@ -269,9 +269,9 @@ cp -r diansai-guide/电赛报告 ~/.claude/skills/
 
 **感谢朱虹老师**慧眼识"猪"，给了我这个机会。
 
-**感谢 B 站 UP 主 [学不会电磁场](https://space.bilibili.com/)** 提供的硬件清单与教程。
+**感谢 B 站 UP 主 学不会电磁场**提供的硬件清单与教程。
 
-**感谢 B 站 UP 主 [我嘞个驾驶学院](https://space.bilibili.com/)** 提供的 Skill 基础模板。
+**感谢 B 站 UP 主 我嘞个驾驶学院**提供的 Skill 基础模板。
 
 **感谢厦门、集美、集美大学**，我活得挺好。
 
