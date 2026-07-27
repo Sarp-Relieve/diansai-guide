@@ -260,6 +260,8 @@ cp -r diansai-guide/电赛报告 ~/.claude/skills/
 
 - [地猛星购买](https://item.szlcsc.com/24478333.html)
 - [MSPM0 烧录工具](https://wiki.lckfb.com/storage/html/mspm0-web-flasher/index.html)
+- [学不会电磁场](https://space.bilibili.com/568468320)
+- [我嘞个驾驶学院](https://space.bilibili.com/357664075)
 
 ---
 
@@ -272,6 +274,8 @@ cp -r diansai-guide/电赛报告 ~/.claude/skills/
 **感谢 B 站 UP 主 学不会电磁场**提供的硬件清单与教程。
 
 **感谢 B 站 UP 主 我嘞个驾驶学院**提供的 Skill 基础模板。
+
+**感谢 AI：Claude Code、DeepSeek、Grok、ChatGPT**，这是 AI 的时代。
 
 **感谢厦门、集美、集美大学**，我活得挺好。
 
