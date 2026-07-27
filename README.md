@@ -258,6 +258,7 @@ cp -r diansai-guide/电赛报告 ~/.claude/skills/
 
 ## 相关链接
 
+- [Granary GIM](https://www.granarygim.com) — 提供大部分模块的硬件和资料
 - [地猛星购买](https://item.szlcsc.com/24478333.html)
 - [MSPM0 烧录工具](https://wiki.lckfb.com/storage/html/mspm0-web-flasher/index.html)
 - [学不会电磁场](https://space.bilibili.com/568468320)
