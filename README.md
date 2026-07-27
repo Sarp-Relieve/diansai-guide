@@ -262,6 +262,18 @@ cp -r diansai-guide/电赛报告 ~/.claude/skills/
 - [MSPM0 烧录工具](https://wiki.lckfb.com/storage/html/mspm0-web-flasher/index.html)
 - [学不会电磁场](https://space.bilibili.com/568468320)
 - [我嘞个驾驶学院](https://space.bilibili.com/357664075)
+- [地猛星引脚图](guide/地猛星引脚图.pdf)
+- [泰山派原理图](guide/泰山派原理图.pdf)
+- [小车底板 EDA](guide/小车底板.epro2)
+- [多开关板 EDA](guide/多开关板.epro2)
+- [拓展板原理图 1](guide/拓展板原理图.pdf)
+- [拓展板原理图 2](guide/拓展板.pdf)
+- [按钮原理图 1](guide/按钮原理图.pdf)
+- [按钮原理图 2](guide/按钮.pdf)
+- [八路灰度传感器手册](guide/八路灰度传感器手册.pdf)
+- [汇电籽 601 模块说明](guide/汇电籽601模块说明.pdf) / [汇电籽 601 通信协议](guide/汇电籽601通信协议.pdf)
+- [电磁铁产品手册](guide/电磁铁产品手册.pdf)
+- [2026 浙江赛区注意事项](guide/2026浙江赛区注意事项.pdf)
 
 ---
 
